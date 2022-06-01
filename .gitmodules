@@ -1,0 +1,3 @@
+[submodule "MS-client"]
+	path = MS-client
+	url = https://github.com/DenisBykovS/MS-client.git
